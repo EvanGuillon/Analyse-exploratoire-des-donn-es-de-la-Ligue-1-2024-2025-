@@ -1,7 +1,7 @@
 # Analyse exploratoire des données Ligue 1 (2024-2025)
 🎯 Objectifs
 
-Ce projet a pour but d’analyser les données de la Ligue 1 de la saison passée afin de :
+   Ce projet a pour but d’analyser les données de la Ligue 1 de la saison passée afin de :
 
    - Comprendre le classement final à l'issue de la saison
    - Expliquer des potentiels relations qui ont permis aux équipes d'avoir un meilleur classement
