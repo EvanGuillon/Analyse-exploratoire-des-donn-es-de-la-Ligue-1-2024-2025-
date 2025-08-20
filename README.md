@@ -1,5 +1,6 @@
 # Analyse exploratoire des données Ligue 1 (2024-2025)
-🎯 Objectif
+
+🎯 Objectifs
 
 Ce projet a pour but d’analyser les données de la Ligue 1 de la saison passée afin de :
 
