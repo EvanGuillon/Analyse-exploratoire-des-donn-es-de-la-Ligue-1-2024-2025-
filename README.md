@@ -8,7 +8,11 @@ Ce projet a pour but d’analyser les données de la Ligue 1 de la saison passé
 
 📂 Contenu du projet
 
-   - notebook.ipynb : notebook Jupyter avec l’analyse complète
-   - data/ : données utilisées (seul un échantillon est fourni)
-   - images/ : graphiques générés
+   - notebook.ipynb : notebook Jupyter avec l’analyse complète réalisée
+   - data/ : données utilisées 
+   - images/ : graphiques générés à l'issue de l'analyse
    - requirements.txt : dépendances nécessaires pour exécuter le projet
+
+🛠️ Technologies utilisées
+   - Language : Python 
+   - Logiciel : Jupyter Notebook
