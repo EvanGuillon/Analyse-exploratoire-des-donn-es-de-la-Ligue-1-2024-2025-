@@ -11,8 +11,6 @@
 
    - notebook.ipynb : notebook Jupyter avec l’analyse complète réalisée
    - data/ : données utilisées 
-   - images/ : graphiques générés à l'issue de l'analyse
-   - requirements.txt : dépendances nécessaires pour exécuter le projet
 
 🛠️ Technologies utilisées
    - Language : Python 
