@@ -15,3 +15,6 @@
 🛠️ Technologies utilisées
    - Language : Python 
    - Logiciel : Jupyter Notebook
+
+⚠️ Remarque importante
+   - Les couleurs ne s'afichent pas toutes correctement en ouvrant le notebook, n'hésitez pas à relancer le tout de votre côté en local pour pouvoir lire correctement l'ensemble des données
